@@ -5,7 +5,7 @@ A **self-hosted distributed CI/CD platform** built from scratch with a microserv
 > Think GitHub Actions — but self-hosted and fully under your control.
 
 
-![Dashboard](assets/dashboard.png)
+![Architecture diagram](assets/architecture.png)
 ---
 
 ## ✨ Features
